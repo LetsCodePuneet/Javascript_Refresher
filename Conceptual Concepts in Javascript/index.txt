@@ -1,0 +1,10 @@
+Topics to study in Javascript:
+1. Currying in Javascript
+2. what is ._partial and ._partialRight
+3. what is loadash
+4. what is sparse array
+5. loops in Javascript
+6. classes in Javascript
+7. what is valueOf
+8. spread and rest operator
+9. Infinity in Javascript
